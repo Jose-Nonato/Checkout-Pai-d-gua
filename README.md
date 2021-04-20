@@ -35,6 +35,6 @@
   </tr>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/carlos-eduardo-nylander-bitencourt-dias-4602301a3/"><img style="border-radius: 50%;" src="https://storage.googleapis.com/meetime-blog/wp-content/uploads/2020/08/Como-usar-o-seu-perfil-do-LinkedIn-a-seu-favor-e-o-que-n%C3%A3o-fazer.png" width="100px;" alt=""/><br /><sub><b>Carlos Eduardo</b></sub></a><br /><a href="https://www.instagram.com/c4rlo5eduard0/?igshid=ymbfjqzx21b4" title="Instagram">🚀</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/eduardo-ara%C3%BAjo-788a041a3/"><img style="border-radius: 50%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxbC9lxu12eQEiaBoz8SibXF7czmqmcnK0w&usqp=CAU" width="100px;" alt=""/><br /><sub><b>Guilherme Rodz</b></sub></a><br /><a href="https://www.instagram.com/eduardomaedaa/?hl=pt-br" title="Instagram">🚀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/eduardo-ara%C3%BAjo-788a041a3/"><img style="border-radius: 50%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxbC9lxu12eQEiaBoz8SibXF7czmqmcnK0w&usqp=CAU" width="100px;" alt=""/><br /><sub><b>Eduardo Maeda</b></sub></a><br /><a href="https://www.instagram.com/eduardomaedaa/?hl=pt-br" title="Instagram">🚀</a></td>
   </tr>
 </table>
