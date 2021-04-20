@@ -15,6 +15,7 @@
  <a href="#objetivos">Objetivos</a> • 
  <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#contribuicao">Contribuição</a> • 
+ <a href="#telas">Telas</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -27,6 +28,16 @@
 <h2 align="center">Funcionalidades</h2> 
 <p id="funcionalidades">O antifurto funciona por meio de uma câmera que irá analisar os produtos que serão postos no caixa e irá confirmar que o cliente está pagando pelos produtos exatos que foram adicionados no carrinho digital.</p>
 
+<h2 align="center">Telas</h2>
+<img align="center" src="https://user-images.githubusercontent.com/66874248/115455232-13bc4900-a1f8-11eb-8ac3-afb90d44d2e8.png">
+<h4>Seção de Compras</h4>
+
+<img src="https://user-images.githubusercontent.com/66874248/115455483-6564d380-a1f8-11eb-8aba-66a148ef1522.png">
+<h4>Carrinho Virtual</h4>
+
+<img src="https://user-images.githubusercontent.com/66874248/115455717-afe65000-a1f8-11eb-9d91-aa98607c79b1.png">
+<h4>Perfil Pessoal</h4>
+
 <h2 id="contribuicao">Contribuição</h2> 
 <table>
   <tr>
@@ -38,3 +49,14 @@
     <td align="center"><a href="https://www.linkedin.com/in/eduardo-ara%C3%BAjo-788a041a3/"><img style="border-radius: 50%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxbC9lxu12eQEiaBoz8SibXF7czmqmcnK0w&usqp=CAU" width="100px;" alt=""/><br /><sub><b>Eduardo Maeda</b></sub></a><br /><a href="https://www.instagram.com/eduardomaedaa/?hl=pt-br" title="Instagram">🚀</a></td>
   </tr>
 </table>
+
+### Autor
+---
+
+<a href="https://www.linkedin.com/in/jose-nonato-cunha-de-oliveira-junior-a445a8198/">
+ <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/66874248/115456800-f5efe380-a1f9-11eb-8f3a-479d29c33947.png" width="100px;" alt=""/>
+ <br />
+ <sub><b>José Nonato Junior</b></sub></a> <a href="https://www.linkedin.com/in/jose-nonato-cunha-de-oliveira-junior-a445a8198/" title="Linkedin">🚀</a>
+
+
+Feito com ❤️ por José Nonato 👋🏽 !
