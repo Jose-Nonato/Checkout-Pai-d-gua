@@ -1,11 +1,20 @@
+import React from 'react';
 import './App.css';
-import Register from './components/Register/Register';
+
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import Login from '../src/components/Login/Login';
+import Register from '../src/components/Register/Register';
+import Start from '../src/components/Start/Start';
 
 function App() {
   return (
-    <div className="App">
-      <Register/>
-    </div>
+    <BrowserRouter>
+        <Switch>
+            <Route exact path="/" component={Start}/>
+            <Route path="/Login" component={Login}/>
+            <Route path="/Register" component={Register}/>
+        </Switch>
+    </BrowserRouter>
   );
 }
 

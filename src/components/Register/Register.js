@@ -46,7 +46,7 @@ export default function Register() {
                     <TextField className="input" id="outlined-basic" label="Senha" type="password" variant="outlined" />               
                 </div>
                 <div className="btn-area">
-                    <Button variant="contained" color="secondary">Cancelar</Button>
+                    <Button variant="contained" color="secondary" href="/">Cancelar</Button>
                     <Button variant="contained" color="primary" onClick={handleClick({ vertical: 'bottom', horizontal: 'center' })}>Confirmar</Button>
                 </div>
             </div>

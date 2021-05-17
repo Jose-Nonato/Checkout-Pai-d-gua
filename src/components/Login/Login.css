@@ -2,20 +2,20 @@
     padding: 0;
     margin: 0;
 }
-body{
+/* body{
     background: gray;
-}
+} */
 .Container {
     width: 100vw;
 	height: 100vh;
 
-	display: flex;
+	/* display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: center; */
 }
 .Card {
     width: 400px;
-    height: 400px;
+    height: 500px;
 
 	background: white;
 	font-family: Lato;
@@ -26,7 +26,11 @@ body{
 	border-top: 25px solid green;
     box-shadow: 4px 4px rgba(77, 76, 76, 0.623);
 
-    margin: 0 auto;
+    position: absolute;
+    top: 70%;
+    right: 40%;
+
+    /* margin: 0 auto; */
     border-end-start-radius: 20px;
     border-end-end-radius: 20px;
 }
@@ -35,4 +39,17 @@ body{
     font-weight: bold;
     text-align: center;
     padding: 20px;
+}
+.input-area {
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    width: 98%;
+    padding-bottom: 20px;
+}
+.btn-area {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
 }
