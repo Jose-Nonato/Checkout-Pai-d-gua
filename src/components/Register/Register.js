@@ -31,10 +31,10 @@ export default function Register() {
             <CardMedia
                 className="img"
                 component="img"
-                alt="Contemplative Reptile"
+                alt="Tela de Fundo"
                 height="400"
                 image={Fundo}
-                title="Contemplative Reptile"
+                title="Tela de Fundo"
             />
             <div className="Card">
                 <div className="txt">Registro</div>
