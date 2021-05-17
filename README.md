@@ -1,62 +1,70 @@
-<h1 align="center">Checkout-Pai-d'egua</h1>
-<h3 align="center">O jeito mais prático de realizar o self checkout</h3>
+# Getting Started with Create React App
 
-<h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-<img src="https://img.shields.io/static/v1?label=Status&message=Prototyping&color=7159c1&style=for-the-badge&logo=ghost"/>
-<img src="https://img.shields.io/static/v1?label=Version&message=v1.0&color=7159c1&style=for-the-badge&logo=ghost"/>
+In the project directory, you can run:
 
-<h3 align="center">Tabela de conteúdos</h3>
-<p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#objetivos">Objetivos</a> • 
- <a href="#funcionalidades">Funcionalidades</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#telas">Telas</a> • 
- <a href="#autor">Autor</a>
-</p>
+### `yarn start`
 
-<h2 align="center">Sobre</h2> 
-<p id="sobre">Com o advento do Self-Checkout, situações como fraude e roubo no momento da compra tornam-se mais prováveis de ocorrer, seja por uma segurança falha ou pela falta de atenção durante o monitoramento no caixa.</p>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-<h2 align="center">Objetivos</h2> 
-<p id="objetivos">Entregar um sistema antifurto integrado ao auto checkout para viabilizar esse sistema moderno e necessário, principalmente num cenário de pandemia, onde as pessoas tendem a evitar ao máximo contato com outras pessoas, dessa forma o cliente empresa se sentirá seguro em implementar esse sistema com antifurto e o cliente consumidor se sentirá confortável em frequentar os ambientes de supermercados e redes varejistas com o autocheckout.</p>
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-<h2 align="center">Funcionalidades</h2> 
-<p id="funcionalidades">O antifurto funciona por meio de uma câmera que irá analisar os produtos que serão postos no caixa e irá confirmar que o cliente está pagando pelos produtos exatos que foram adicionados no carrinho digital.</p>
+### `yarn test`
 
-<h2 align="center">Telas</h2>
-<img align="center" src="https://user-images.githubusercontent.com/66874248/115455232-13bc4900-a1f8-11eb-8ac3-afb90d44d2e8.png">
-<h4>Seção de Compras</h4>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<img src="https://user-images.githubusercontent.com/66874248/115455483-6564d380-a1f8-11eb-8aba-66a148ef1522.png">
-<h4>Carrinho Virtual</h4>
+### `yarn build`
 
-<img src="https://user-images.githubusercontent.com/66874248/115455717-afe65000-a1f8-11eb-9d91-aa98607c79b1.png">
-<h4>Perfil Pessoal</h4>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<h2 id="contribuicao">Contribuição</h2> 
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/jose-nonato-cunha-de-oliveira-junior-a445a8198/"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>José Nonato</b></sub></a><br /><a href="https://www.instagram.com/" title="Instagram">👨‍🚀</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/abimael-ferreira-65b7431b1/"><img style="border-radius: 50%;" src="https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2020/09/os-simpsons.jpg" width="100px;" alt=""/><br /><sub><b>Abimael Ferreira</b></sub></a><br /><a href="https://www.instagram.com/abimaelferreirade/?hl=pt-br" title="Instagram">👨‍🚀</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/carlos-eduardo-nylander-bitencourt-dias-4602301a3/"><img style="border-radius: 50%;" src="https://storage.googleapis.com/meetime-blog/wp-content/uploads/2020/08/Como-usar-o-seu-perfil-do-LinkedIn-a-seu-favor-e-o-que-n%C3%A3o-fazer.png" width="100px;" alt=""/><br /><sub><b>Carlos Eduardo</b></sub></a><br /><a href="https://www.instagram.com/c4rlo5eduard0/?igshid=ymbfjqzx21b4" title="Instagram">🚀</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/eduardo-ara%C3%BAjo-788a041a3/"><img style="border-radius: 50%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxbC9lxu12eQEiaBoz8SibXF7czmqmcnK0w&usqp=CAU" width="100px;" alt=""/><br /><sub><b>Eduardo Maeda</b></sub></a><br /><a href="https://www.instagram.com/eduardomaedaa/?hl=pt-br" title="Instagram">🚀</a></td>
-  </tr>
-</table>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Autor
----
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-<a href="https://www.linkedin.com/in/jose-nonato-cunha-de-oliveira-junior-a445a8198/">
- <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/66874248/115456800-f5efe380-a1f9-11eb-8f3a-479d29c33947.png" width="100px;" alt=""/>
- <br />
- <sub><b>José Nonato Junior</b></sub></a> <a href="https://www.linkedin.com/in/jose-nonato-cunha-de-oliveira-junior-a445a8198/" title="Linkedin">🚀</a>
+### `yarn eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Feito com ❤️ por José Nonato 👋🏽 !
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

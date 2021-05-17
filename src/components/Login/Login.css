@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: gray;
+}
+.Container {
+    width: 100vw;
+	height: 100vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.Card {
+    width: 400px;
+    height: 400px;
+
+	background: white;
+	font-family: Lato;
+	text-align: center;
+
+	padding: 20px;
+	box-sizing: border-box;
+	border-top: 25px solid green;
+    box-shadow: 4px 4px rgba(77, 76, 76, 0.623);
+
+    margin: 0 auto;
+    border-end-start-radius: 20px;
+    border-end-end-radius: 20px;
+}
+.txt {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
